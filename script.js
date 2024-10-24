@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 popup.remove();
                 // Không tăng refusalCount trong hàm này để cho phép chọn "Không" không giới hạn
             });
-        }, 600);
+        }, 530);
     }
 
     // Hiện thông báo cuối cùng
